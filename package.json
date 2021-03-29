@@ -1,0 +1,25 @@
+{
+  "name": "aws-s3-resize-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuantq1-lib/aws-s3-resize-image.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thuantq1-lib/aws-s3-resize-image/issues"
+  },
+  "homepage": "https://github.com/thuantq1-lib/aws-s3-resize-image#readme",
+  "dependencies": {
+    "aws-sdk": "^2.874.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "sharp": "^0.27.2"
+  }
+}
